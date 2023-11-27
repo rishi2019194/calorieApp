@@ -45,7 +45,8 @@
  - **User-Friendly Accessibility:** Accessible to users of all levels with a user-friendly interface
 
 ## Project Documentation
-Checkout for project documentation at our [wiki page](https://github.com/rishi2019194/calorieApp/wiki)
+Checkout for project documentation at our [wiki page](https://github.com/rishi2019194/calorieApp/wiki)<br>
+Link to the scorecard for project 3 - https://github.com/rishi2019194/calorieApp/blob/main/proj3/README.md
 
 ## Project Presentation Video
 You can see the project presentation at - https://www.youtube.com/watch?v=UCcJEpKzulI
