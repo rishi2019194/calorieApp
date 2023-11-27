@@ -1,4 +1,4 @@
-# Contributing to BurnOut 3.0!!
+# Contributing to BurnOut!!
 <h3>Hello!👋</h3>
 <p>Firstly, thank you so much for showing interest in BurnOut and contributing to our project.👍</p>
 The following are a set of guidelines for contributing to BurnOut. We are open to suggestions to enhance our project so feel free to propose changes to this document in a pull request.
